@@ -10,7 +10,7 @@
 ## пример: localhost:4000/api/user/auth
 
 ## registration
-![](documentation/Screenshot 2023-11-09 at 01.19.09.png)
+![](https://github.com/AlexandrKarpovich/backend-nodejs/blob/main/documentation/Screenshot%202023-11-09%20at%2001.19.09.png)
 отправляем (например)
 "email": "user@mail.ru",
 "password": "12345"
@@ -21,7 +21,7 @@
 можно посмотреть в базе данных создается ли user (если что то увидишь) (database.sqlite)
 
 ## login
-![](documentation/Screenshot 2023-11-09 at 01.45.50.png)
+![](https://github.com/AlexandrKarpovich/backend-nodejs/blob/main/documentation/Screenshot%202023-11-09%20at%2001.45.50.png)
 логинимся
 "email": "user@mail.ru",
 "password": "12345"
@@ -33,7 +33,7 @@
 
 ## auth
 авторизоваться
-![](documentation/Screenshot 2023-11-09 at 02.19.26.png)
+![](https://github.com/AlexandrKarpovich/backend-nodejs/blob/main/documentation/Screenshot%202023-11-09%20at%2002.19.26.png)
 добовляем приставку Bearer затем токен
 если не подходит токен
 "message": "Не авторизован"
